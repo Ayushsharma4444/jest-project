@@ -1,4 +1,4 @@
-import sum from './Sum';
+import sum from '../programs/Sum';
 
 test('testing of add function', ()=>{
 
